@@ -97,6 +97,7 @@ python bot.py
 
 - [aiogram](https://docs.aiogram.dev/)
 - [httpx](https://www.python-httpx.org/)
+- [python-dotenv](https://saurabh-kumar.com/python-dotenv/)
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 - [Telegram Mini Apps](https://core.telegram.org/bots/webapps)
 - [ExchangeRate-API](https://www.exchangerate-api.com/docs)
