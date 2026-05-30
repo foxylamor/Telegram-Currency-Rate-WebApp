@@ -32,7 +32,7 @@ telegram-currency-rate-webapp/
 │   └── index.html       # Telegram Mini App interface
 │   └── style.html       # Styles for the interface
 │   └── script.js        # Telegram Mini App script
-├── main.py              # Main bot file
+├── bot.py              # Main bot file
 └── requirements.txt     # Project dependencies
 ```
 
